@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @xuangia216
-- 👀 I’m interested in Web Developement...
-- 🌱 I’m currently learning HTML, CSS, and JS
-- 💞️ I’m looking to collaborate on Edtech and Finance Web Development Projects
+- 👋 Hi, I’m XuanGia!
+- 👀 I’m interested in Web Developement.
+- 🌱 I’m currently learning HTML, CSS, and JS.
+- 💞️ I’m looking to collaborate on Edtech and Finance Web Development Projects.
 - 📫 My email: xuangia569@gmail.com
 
 <!---
