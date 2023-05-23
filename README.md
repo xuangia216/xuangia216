@@ -1,4 +1,4 @@
-- 👋 Hi, I’m XuanGia!
+- 👋 Hi, I’m Gia. 
 - 👀 I’m interested in Web Developement.
 - 🌱 I’m currently learning HTML, CSS, and JS.
 - 💞️ I’m looking to collaborate on Edtech and Finance Web Development Projects.
